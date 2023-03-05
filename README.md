@@ -1,5 +1,4 @@
-### 
-A little about me
+### A little about me
 * I am from Aurora, Colorado
 * First-generation, second-year student at Northwestern University
 * Pursuing a combined B.S./M.S. in Computer Engineering
